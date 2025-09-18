@@ -1,0 +1,11 @@
+pwd              # Print working directory
+ls -la           # List files (including hidden) in long format
+cd /path/to/dir  # Change directory
+
+# File operations
+touch file.txt   # Create empty file
+mkdir newfolder  # Create directory
+cp file1 file2   # Copy file
+mv old new       # Move/rename file
+rm file.txt      # Remove file
+rm -r folder/    # Remove folder and contents
